@@ -8,7 +8,7 @@ application.yml
 # Archivos de ejemplo sí se incluyen
 !application.example.properties
 
-# Archivos generados por IDEs
+# IntelliJ IDEA
 .idea/
 *.iws
 *.iml
