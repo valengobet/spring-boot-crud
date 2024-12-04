@@ -37,4 +37,4 @@ Thumbs.db
 !**/src/main/**/build/
 !**/src/test/**/build/
 HELP.md
-src/main/resources/application.properties
+src/main/resources/
